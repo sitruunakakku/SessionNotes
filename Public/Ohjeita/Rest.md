@@ -1,0 +1,10 @@
+- Short rest: tietyt ominaisuudet takaisin, warlockit saa spell slotit
+	- valitse kuinka monta jäljellä olevista hit diceistasi heität ja lisää hipareita sen verran
+- Long rest
+	- Kaikki hp takas
+	- kaikki spell slotit takaisin
+	- hit diceja tulee takaisin oma maksimi jaettuna kahdella, eli jos hit dice max on vaikka 6d8 ja niitä on jäljellä 0, niitä tulee takaisin 3d8
+	- Long restin voi pitää vain kerran vuorokaudessa
+	- Elffit tarvitsee vaan 4h meditaatiota
+	- Jos rest keskeytyy yli tunnilla niin ei saada enää long restin hyötyjä vaan pitää aloittaa uudestaan
+	- 8 tunnin levon aikana voi tehdä 2h jotain kevyttä toimintaa
