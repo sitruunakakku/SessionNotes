@@ -8,6 +8,7 @@
 3. Ability score improvement
 	- Jos classisi taulukossa feature-kohdassa lukee ability score improvement, voit lisätä joko kahden abilityn scoreen +1 tai yhteen abilityn scoreen +2.
 	- Vaihtoehtoisesti voit ottaa myös jonkun featin, löytyy pelaajien käsikirjasta. 
+	- Jos Constitution modifier kasvaa yhdellä, hit point maximum kasvaa myös yhdellä jokaista hahmon leveliä kohden. Esim. Level 8 pelaaja nostaa Constitutionin 17 -> 18, jolloin Con modifier kasvaa +3 -> +4. Tällöin hit point maximum kasvaa kahdeksalla, esim. 50 -> 58. 
 4. Spellit
 	- Jos olet spellcaster, katso oman classisi taulukosta "spells known" määrä. Jos se kasvaa, niin voit valita lisää uusia loitsuja siihen lukuun asti. Eli jos esim spells known kasvaa viidestä kuuteen voit valita yhden uuden loitsun.
 	- Saatat saada myös uusia spell slotteja; tarkista taulukko.
