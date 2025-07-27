@@ -9,4 +9,5 @@ eli etsi se pelisession päivämäärä jonka summauksen haluat lukea ja klikkaa
 Public-kansiosta löytyy myös mun homebrew säännöt ja ohjeita hahmonluontiin, lepoon ja level uppaukseen.
 
 Linkki consent-lomakkeeseen(anonyymi): https://forms.gle/qwn7pfgyk8Yjn1iGA
+
 Risuja ja ruusuja DM:lle(anonyymi): https://forms.gle/ezfDXr4wvCeoJ6n67
