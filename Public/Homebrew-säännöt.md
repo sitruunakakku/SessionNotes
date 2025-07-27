@@ -1,0 +1,3 @@
+- Potionin juominen vie bonus actionin
+	- Jos haluaa käyttää kokonaisen actionin niin potionista saa max hyödyt
+- Aseen vaihto on bonus action
