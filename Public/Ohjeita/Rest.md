@@ -1,5 +1,5 @@
 - Short rest: tietyt ominaisuudet takaisin, warlockit saa spell slotit
-	- valitse kuinka monta jäljellä olevista hit diceistasi heität ja lisää hipareita sen verran
+	- valitse kuinka monta jäljellä olevista hit diceistasi heität ja lisää hipareita sen verran + CON modifier
 - Long rest
 	- Kaikki hp takas
 	- kaikki spell slotit takaisin
