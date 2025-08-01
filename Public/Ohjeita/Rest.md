@@ -8,3 +8,4 @@
 	- Elffit tarvitsee vaan 4h meditaatiota
 	- Jos rest keskeytyy yli tunnilla niin ei saada enää long restin hyötyjä vaan pitää aloittaa uudestaan
 	- 8 tunnin levon aikana voi tehdä 2h jotain kevyttä toimintaa
+	- muista vähentää 1 ration
